@@ -1,0 +1,11 @@
+mar. 14/11/2023  1:09:17.15 ReadVars 
+ ReadVarsESO
+ getting all vars from:eplusout.eso
+  number variables requested for output=         169
+ ReadVars Run Time=00hr 00min  1.30sec
+ ReadVarsESO program completed successfully.
+ ReadVarsESO
+ processing:test.mvi
+ Requested ESO file=eplusout.mtr
+ does not exist.  ReadVarsESO program terminated.
+ ReadVarsESO program terminated.

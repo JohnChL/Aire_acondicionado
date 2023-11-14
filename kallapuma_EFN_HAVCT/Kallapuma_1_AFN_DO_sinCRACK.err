@@ -1,0 +1,28 @@
+Program Version,EnergyPlus, Version 22.2.0-c249759bad, YMD=2023.11.14 01:09,
+   ************* Successfully added path "C:\\Users\\USER.V\\Desktop\\Python_notebooks\\Demanda energetica\\kallapuma_EFN_HAVCT" to the sys.path in Python
+   ** Warning ** Site:GroundTemperature:BuildingSurface: Some values fall outside the range of 15-25C.
+   **   ~~~   ** These values may be inappropriate.  Please consult the Input Output Reference for more details.
+   ** Warning ** CalcSurfaceCentroid: 2 Surfaces have the Z coordinate < 0.
+   **   ~~~   ** ...in any calculations, Wind Speed will be 0.0 for these surfaces.
+   **   ~~~   ** ...in any calculations, Outside temperatures will be the outside temperature + 9.750E-003 for these surfaces.
+   **   ~~~   ** ...that is, these surfaces will have conditions as though at ground level.
+   ** Warning ** DetermineShadowingCombinations: There are 1 surfaces which are receiving surfaces and are non-convex.
+   **   ~~~   ** ...Shadowing values may be inaccurate. Check .shd report file for more surface shading details
+   **   ~~~   ** ...Add Output:Diagnostics,DisplayExtraWarnings; to see individual warnings for each surface.
+   ** Warning ** DeterminePolygonOverlap: Too many figures [>15000]  detected in an overlap calculation. Use Output:Diagnostics,DisplayExtraWarnings; for more details.
+   ************* Testing Individual Branch Integrity
+   ************* All Branches passed integrity testing
+   ************* Testing Individual Supply Air Path Integrity
+   ************* All Supply Air Paths passed integrity testing
+   ************* Testing Individual Return Air Path Integrity
+   ************* All Return Air Paths passed integrity testing
+   ************* No node connection errors were found.
+   ************* Beginning Simulation
+   ************* Simulation Error Summary *************
+   ************* There are 6 unused objects in input.
+   ************* Use Output:Diagnostics,DisplayUnusedObjects; to see them.
+   ************* There are 1 unused schedules in input.
+   ************* Use Output:Diagnostics,DisplayUnusedSchedules; to see them.
+   ************* EnergyPlus Warmup Error Summary. During Warmup: 0 Warning; 0 Severe Errors.
+   ************* EnergyPlus Sizing Error Summary. During Sizing: 0 Warning; 0 Severe Errors.
+   ************* EnergyPlus Completed Successfully-- 4 Warning; 0 Severe Errors; Elapsed Time=00hr 00min  3.62sec

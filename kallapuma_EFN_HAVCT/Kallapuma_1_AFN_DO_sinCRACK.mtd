@@ -1,0 +1,658 @@
+
+ Meters for 176,ALMACEN THERMAL ZONE:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:ALMACEN THERMAL ZONE [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:ALMACEN THERMAL ZONE [J]
+  OnMeter=General:Heating:EnergyTransfer [J]
+  OnMeter=General:Heating:EnergyTransfer:Zone:ALMACEN THERMAL ZONE [J]
+
+ Meters for 261,ALMACEN THERMAL ZONE:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:ALMACEN THERMAL ZONE [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:ALMACEN THERMAL ZONE [J]
+  OnMeter=General:Cooling:EnergyTransfer [J]
+  OnMeter=General:Cooling:EnergyTransfer:Zone:ALMACEN THERMAL ZONE [J]
+
+ Meters for 310,BANIO DAMAS THERMAL ZONE:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:BANIO DAMAS THERMAL ZONE [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:BANIO DAMAS THERMAL ZONE [J]
+  OnMeter=General:Heating:EnergyTransfer [J]
+  OnMeter=General:Heating:EnergyTransfer:Zone:BANIO DAMAS THERMAL ZONE [J]
+
+ Meters for 347,BANIO DAMAS THERMAL ZONE:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:BANIO DAMAS THERMAL ZONE [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:BANIO DAMAS THERMAL ZONE [J]
+  OnMeter=General:Cooling:EnergyTransfer [J]
+  OnMeter=General:Cooling:EnergyTransfer:Zone:BANIO DAMAS THERMAL ZONE [J]
+
+ Meters for 372,BANIO EXT DISCAP THERMAL ZONE:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:BANIO EXT DISCAP THERMAL ZONE [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:BANIO EXT DISCAP THERMAL ZONE [J]
+  OnMeter=General:Heating:EnergyTransfer [J]
+  OnMeter=General:Heating:EnergyTransfer:Zone:BANIO EXT DISCAP THERMAL ZONE [J]
+
+ Meters for 409,BANIO EXT DISCAP THERMAL ZONE:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:BANIO EXT DISCAP THERMAL ZONE [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:BANIO EXT DISCAP THERMAL ZONE [J]
+  OnMeter=General:Cooling:EnergyTransfer [J]
+  OnMeter=General:Cooling:EnergyTransfer:Zone:BANIO EXT DISCAP THERMAL ZONE [J]
+
+ Meters for 434,BANIO EXT HOMBRES THERMAL ZONE:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:BANIO EXT HOMBRES THERMAL ZONE [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:BANIO EXT HOMBRES THERMAL ZONE [J]
+  OnMeter=General:Heating:EnergyTransfer [J]
+  OnMeter=General:Heating:EnergyTransfer:Zone:BANIO EXT HOMBRES THERMAL ZONE [J]
+
+ Meters for 471,BANIO EXT HOMBRES THERMAL ZONE:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:BANIO EXT HOMBRES THERMAL ZONE [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:BANIO EXT HOMBRES THERMAL ZONE [J]
+  OnMeter=General:Cooling:EnergyTransfer [J]
+  OnMeter=General:Cooling:EnergyTransfer:Zone:BANIO EXT HOMBRES THERMAL ZONE [J]
+
+ Meters for 496,BANIO EXT MUJERES THERMAL ZONE:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:BANIO EXT MUJERES THERMAL ZONE [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:BANIO EXT MUJERES THERMAL ZONE [J]
+  OnMeter=General:Heating:EnergyTransfer [J]
+  OnMeter=General:Heating:EnergyTransfer:Zone:BANIO EXT MUJERES THERMAL ZONE [J]
+
+ Meters for 533,BANIO EXT MUJERES THERMAL ZONE:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:BANIO EXT MUJERES THERMAL ZONE [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:BANIO EXT MUJERES THERMAL ZONE [J]
+  OnMeter=General:Cooling:EnergyTransfer [J]
+  OnMeter=General:Cooling:EnergyTransfer:Zone:BANIO EXT MUJERES THERMAL ZONE [J]
+
+ Meters for 558,BANIO TAMBERO THERMAL ZONE:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:BANIO TAMBERO THERMAL ZONE [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:BANIO TAMBERO THERMAL ZONE [J]
+  OnMeter=General:Heating:EnergyTransfer [J]
+  OnMeter=General:Heating:EnergyTransfer:Zone:BANIO TAMBERO THERMAL ZONE [J]
+
+ Meters for 595,BANIO TAMBERO THERMAL ZONE:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:BANIO TAMBERO THERMAL ZONE [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:BANIO TAMBERO THERMAL ZONE [J]
+  OnMeter=General:Cooling:EnergyTransfer [J]
+  OnMeter=General:Cooling:EnergyTransfer:Zone:BANIO TAMBERO THERMAL ZONE [J]
+
+ Meters for 620,BANIO VARONES THERMAL ZONE:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:BANIO VARONES THERMAL ZONE [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:BANIO VARONES THERMAL ZONE [J]
+  OnMeter=General:Heating:EnergyTransfer [J]
+  OnMeter=General:Heating:EnergyTransfer:Zone:BANIO VARONES THERMAL ZONE [J]
+
+ Meters for 657,BANIO VARONES THERMAL ZONE:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:BANIO VARONES THERMAL ZONE [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:BANIO VARONES THERMAL ZONE [J]
+  OnMeter=General:Cooling:EnergyTransfer [J]
+  OnMeter=General:Cooling:EnergyTransfer:Zone:BANIO VARONES THERMAL ZONE [J]
+
+ Meters for 682,DORMITORIO DAMAS:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:DORMITORIO DAMAS [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:DORMITORIO DAMAS [J]
+  OnMeter=General:Heating:EnergyTransfer [J]
+  OnMeter=General:Heating:EnergyTransfer:Zone:DORMITORIO DAMAS [J]
+
+ Meters for 719,DORMITORIO DAMAS:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:DORMITORIO DAMAS [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:DORMITORIO DAMAS [J]
+  OnMeter=General:Cooling:EnergyTransfer [J]
+  OnMeter=General:Cooling:EnergyTransfer:Zone:DORMITORIO DAMAS [J]
+
+ Meters for 744,DORMITORIO P SEGURIDAD THERMAL ZONE:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:DORMITORIO P SEGURIDAD THERMAL ZONE [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:DORMITORIO P SEGURIDAD THERMAL ZONE [J]
+  OnMeter=General:Heating:EnergyTransfer [J]
+  OnMeter=General:Heating:EnergyTransfer:Zone:DORMITORIO P SEGURIDAD THERMAL ZONE [J]
+
+ Meters for 781,DORMITORIO P SEGURIDAD THERMAL ZONE:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:DORMITORIO P SEGURIDAD THERMAL ZONE [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:DORMITORIO P SEGURIDAD THERMAL ZONE [J]
+  OnMeter=General:Cooling:EnergyTransfer [J]
+  OnMeter=General:Cooling:EnergyTransfer:Zone:DORMITORIO P SEGURIDAD THERMAL ZONE [J]
+
+ Meters for 806,DORMITORIO TAMBERO THERMAL ZONE:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:DORMITORIO TAMBERO THERMAL ZONE [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:DORMITORIO TAMBERO THERMAL ZONE [J]
+  OnMeter=General:Heating:EnergyTransfer [J]
+  OnMeter=General:Heating:EnergyTransfer:Zone:DORMITORIO TAMBERO THERMAL ZONE [J]
+
+ Meters for 843,DORMITORIO TAMBERO THERMAL ZONE:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:DORMITORIO TAMBERO THERMAL ZONE [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:DORMITORIO TAMBERO THERMAL ZONE [J]
+  OnMeter=General:Cooling:EnergyTransfer [J]
+  OnMeter=General:Cooling:EnergyTransfer:Zone:DORMITORIO TAMBERO THERMAL ZONE [J]
+
+ Meters for 868,DORMITORIO VARONES THERMAL ZONE:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:DORMITORIO VARONES THERMAL ZONE [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:DORMITORIO VARONES THERMAL ZONE [J]
+  OnMeter=General:Heating:EnergyTransfer [J]
+  OnMeter=General:Heating:EnergyTransfer:Zone:DORMITORIO VARONES THERMAL ZONE [J]
+
+ Meters for 905,DORMITORIO VARONES THERMAL ZONE:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:DORMITORIO VARONES THERMAL ZONE [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:DORMITORIO VARONES THERMAL ZONE [J]
+  OnMeter=General:Cooling:EnergyTransfer [J]
+  OnMeter=General:Cooling:EnergyTransfer:Zone:DORMITORIO VARONES THERMAL ZONE [J]
+
+ Meters for 930,PASADIZO BANIOS THERMAL ZONE:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:PASADIZO BANIOS THERMAL ZONE [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:PASADIZO BANIOS THERMAL ZONE [J]
+  OnMeter=General:Heating:EnergyTransfer [J]
+  OnMeter=General:Heating:EnergyTransfer:Zone:PASADIZO BANIOS THERMAL ZONE [J]
+
+ Meters for 967,PASADIZO BANIOS THERMAL ZONE:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:PASADIZO BANIOS THERMAL ZONE [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:PASADIZO BANIOS THERMAL ZONE [J]
+  OnMeter=General:Cooling:EnergyTransfer [J]
+  OnMeter=General:Cooling:EnergyTransfer:Zone:PASADIZO BANIOS THERMAL ZONE [J]
+
+ Meters for 992,PASADIZO THERMAL ZONE:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:PASADIZO THERMAL ZONE [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:PASADIZO THERMAL ZONE [J]
+  OnMeter=General:Heating:EnergyTransfer [J]
+  OnMeter=General:Heating:EnergyTransfer:Zone:PASADIZO THERMAL ZONE [J]
+
+ Meters for 1029,PASADIZO THERMAL ZONE:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:PASADIZO THERMAL ZONE [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:PASADIZO THERMAL ZONE [J]
+  OnMeter=General:Cooling:EnergyTransfer [J]
+  OnMeter=General:Cooling:EnergyTransfer:Zone:PASADIZO THERMAL ZONE [J]
+
+ Meters for 1054,TECHO THERMAL ZONE:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:TECHO THERMAL ZONE [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:TECHO THERMAL ZONE [J]
+  OnMeter=General:Heating:EnergyTransfer [J]
+  OnMeter=General:Heating:EnergyTransfer:Zone:TECHO THERMAL ZONE [J]
+
+ Meters for 1091,TECHO THERMAL ZONE:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:TECHO THERMAL ZONE [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:TECHO THERMAL ZONE [J]
+  OnMeter=General:Cooling:EnergyTransfer [J]
+  OnMeter=General:Cooling:EnergyTransfer:Zone:TECHO THERMAL ZONE [J]
+
+ Meters for 1116,DORMITORIO DAMAS IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Heating Energy [J]
+  OnMeter=DistrictHeating:Facility [J]
+  OnMeter=DistrictHeating:HVAC [J]
+  OnMeter=Heating:DistrictHeating [J]
+  OnMeter=General:Heating:DistrictHeating [J]
+
+ Meters for 1165,DORMITORIO DAMAS IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Cooling Energy [J]
+  OnMeter=DistrictCooling:Facility [J]
+  OnMeter=DistrictCooling:HVAC [J]
+  OnMeter=Cooling:DistrictCooling [J]
+  OnMeter=General:Cooling:DistrictCooling [J]
+
+ Meters for 1214,Site:Environmental Impact Total N2O Emissions Carbon Equivalent Mass [kg]
+  OnMeter=Carbon Equivalent:Facility [kg]
+  OnMeter=CarbonEquivalentEmissions:Carbon Equivalent [kg]
+
+ Meters for 1239,Site:Environmental Impact Total CH4 Emissions Carbon Equivalent Mass [kg]
+  OnMeter=Carbon Equivalent:Facility [kg]
+  OnMeter=CarbonEquivalentEmissions:Carbon Equivalent [kg]
+
+ Meters for 1240,Site:Environmental Impact Total CO2 Emissions Carbon Equivalent Mass [kg]
+  OnMeter=Carbon Equivalent:Facility [kg]
+  OnMeter=CarbonEquivalentEmissions:Carbon Equivalent [kg]
+
+ For Meter=EnergyTransfer:Facility [J], ResourceType=EnergyTransfer, contents are:
+  ALMACEN THERMAL ZONE:Zone Air System Sensible Heating Energy
+  ALMACEN THERMAL ZONE:Zone Air System Sensible Cooling Energy
+  BANIO DAMAS THERMAL ZONE:Zone Air System Sensible Heating Energy
+  BANIO DAMAS THERMAL ZONE:Zone Air System Sensible Cooling Energy
+  BANIO EXT DISCAP THERMAL ZONE:Zone Air System Sensible Heating Energy
+  BANIO EXT DISCAP THERMAL ZONE:Zone Air System Sensible Cooling Energy
+  BANIO EXT HOMBRES THERMAL ZONE:Zone Air System Sensible Heating Energy
+  BANIO EXT HOMBRES THERMAL ZONE:Zone Air System Sensible Cooling Energy
+  BANIO EXT MUJERES THERMAL ZONE:Zone Air System Sensible Heating Energy
+  BANIO EXT MUJERES THERMAL ZONE:Zone Air System Sensible Cooling Energy
+  BANIO TAMBERO THERMAL ZONE:Zone Air System Sensible Heating Energy
+  BANIO TAMBERO THERMAL ZONE:Zone Air System Sensible Cooling Energy
+  BANIO VARONES THERMAL ZONE:Zone Air System Sensible Heating Energy
+  BANIO VARONES THERMAL ZONE:Zone Air System Sensible Cooling Energy
+  DORMITORIO DAMAS:Zone Air System Sensible Heating Energy
+  DORMITORIO DAMAS:Zone Air System Sensible Cooling Energy
+  DORMITORIO P SEGURIDAD THERMAL ZONE:Zone Air System Sensible Heating Energy
+  DORMITORIO P SEGURIDAD THERMAL ZONE:Zone Air System Sensible Cooling Energy
+  DORMITORIO TAMBERO THERMAL ZONE:Zone Air System Sensible Heating Energy
+  DORMITORIO TAMBERO THERMAL ZONE:Zone Air System Sensible Cooling Energy
+  DORMITORIO VARONES THERMAL ZONE:Zone Air System Sensible Heating Energy
+  DORMITORIO VARONES THERMAL ZONE:Zone Air System Sensible Cooling Energy
+  PASADIZO BANIOS THERMAL ZONE:Zone Air System Sensible Heating Energy
+  PASADIZO BANIOS THERMAL ZONE:Zone Air System Sensible Cooling Energy
+  PASADIZO THERMAL ZONE:Zone Air System Sensible Heating Energy
+  PASADIZO THERMAL ZONE:Zone Air System Sensible Cooling Energy
+  TECHO THERMAL ZONE:Zone Air System Sensible Heating Energy
+  TECHO THERMAL ZONE:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Building [J], ResourceType=EnergyTransfer, Group=Building, contents are:
+  ALMACEN THERMAL ZONE:Zone Air System Sensible Heating Energy
+  ALMACEN THERMAL ZONE:Zone Air System Sensible Cooling Energy
+  BANIO DAMAS THERMAL ZONE:Zone Air System Sensible Heating Energy
+  BANIO DAMAS THERMAL ZONE:Zone Air System Sensible Cooling Energy
+  BANIO EXT DISCAP THERMAL ZONE:Zone Air System Sensible Heating Energy
+  BANIO EXT DISCAP THERMAL ZONE:Zone Air System Sensible Cooling Energy
+  BANIO EXT HOMBRES THERMAL ZONE:Zone Air System Sensible Heating Energy
+  BANIO EXT HOMBRES THERMAL ZONE:Zone Air System Sensible Cooling Energy
+  BANIO EXT MUJERES THERMAL ZONE:Zone Air System Sensible Heating Energy
+  BANIO EXT MUJERES THERMAL ZONE:Zone Air System Sensible Cooling Energy
+  BANIO TAMBERO THERMAL ZONE:Zone Air System Sensible Heating Energy
+  BANIO TAMBERO THERMAL ZONE:Zone Air System Sensible Cooling Energy
+  BANIO VARONES THERMAL ZONE:Zone Air System Sensible Heating Energy
+  BANIO VARONES THERMAL ZONE:Zone Air System Sensible Cooling Energy
+  DORMITORIO DAMAS:Zone Air System Sensible Heating Energy
+  DORMITORIO DAMAS:Zone Air System Sensible Cooling Energy
+  DORMITORIO P SEGURIDAD THERMAL ZONE:Zone Air System Sensible Heating Energy
+  DORMITORIO P SEGURIDAD THERMAL ZONE:Zone Air System Sensible Cooling Energy
+  DORMITORIO TAMBERO THERMAL ZONE:Zone Air System Sensible Heating Energy
+  DORMITORIO TAMBERO THERMAL ZONE:Zone Air System Sensible Cooling Energy
+  DORMITORIO VARONES THERMAL ZONE:Zone Air System Sensible Heating Energy
+  DORMITORIO VARONES THERMAL ZONE:Zone Air System Sensible Cooling Energy
+  PASADIZO BANIOS THERMAL ZONE:Zone Air System Sensible Heating Energy
+  PASADIZO BANIOS THERMAL ZONE:Zone Air System Sensible Cooling Energy
+  PASADIZO THERMAL ZONE:Zone Air System Sensible Heating Energy
+  PASADIZO THERMAL ZONE:Zone Air System Sensible Cooling Energy
+  TECHO THERMAL ZONE:Zone Air System Sensible Heating Energy
+  TECHO THERMAL ZONE:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:ALMACEN THERMAL ZONE [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  ALMACEN THERMAL ZONE:Zone Air System Sensible Heating Energy
+  ALMACEN THERMAL ZONE:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer [J], ResourceType=EnergyTransfer, EndUse=Heating, contents are:
+  ALMACEN THERMAL ZONE:Zone Air System Sensible Heating Energy
+  BANIO DAMAS THERMAL ZONE:Zone Air System Sensible Heating Energy
+  BANIO EXT DISCAP THERMAL ZONE:Zone Air System Sensible Heating Energy
+  BANIO EXT HOMBRES THERMAL ZONE:Zone Air System Sensible Heating Energy
+  BANIO EXT MUJERES THERMAL ZONE:Zone Air System Sensible Heating Energy
+  BANIO TAMBERO THERMAL ZONE:Zone Air System Sensible Heating Energy
+  BANIO VARONES THERMAL ZONE:Zone Air System Sensible Heating Energy
+  DORMITORIO DAMAS:Zone Air System Sensible Heating Energy
+  DORMITORIO P SEGURIDAD THERMAL ZONE:Zone Air System Sensible Heating Energy
+  DORMITORIO TAMBERO THERMAL ZONE:Zone Air System Sensible Heating Energy
+  DORMITORIO VARONES THERMAL ZONE:Zone Air System Sensible Heating Energy
+  PASADIZO BANIOS THERMAL ZONE:Zone Air System Sensible Heating Energy
+  PASADIZO THERMAL ZONE:Zone Air System Sensible Heating Energy
+  TECHO THERMAL ZONE:Zone Air System Sensible Heating Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:ALMACEN THERMAL ZONE [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  ALMACEN THERMAL ZONE:Zone Air System Sensible Heating Energy
+
+ For Meter=General:Heating:EnergyTransfer [J], ResourceType=EnergyTransfer, EndUse=Heating, contents are:
+  ALMACEN THERMAL ZONE:Zone Air System Sensible Heating Energy
+  BANIO DAMAS THERMAL ZONE:Zone Air System Sensible Heating Energy
+  BANIO EXT DISCAP THERMAL ZONE:Zone Air System Sensible Heating Energy
+  BANIO EXT HOMBRES THERMAL ZONE:Zone Air System Sensible Heating Energy
+  BANIO EXT MUJERES THERMAL ZONE:Zone Air System Sensible Heating Energy
+  BANIO TAMBERO THERMAL ZONE:Zone Air System Sensible Heating Energy
+  BANIO VARONES THERMAL ZONE:Zone Air System Sensible Heating Energy
+  DORMITORIO DAMAS:Zone Air System Sensible Heating Energy
+  DORMITORIO P SEGURIDAD THERMAL ZONE:Zone Air System Sensible Heating Energy
+  DORMITORIO TAMBERO THERMAL ZONE:Zone Air System Sensible Heating Energy
+  DORMITORIO VARONES THERMAL ZONE:Zone Air System Sensible Heating Energy
+  PASADIZO BANIOS THERMAL ZONE:Zone Air System Sensible Heating Energy
+  PASADIZO THERMAL ZONE:Zone Air System Sensible Heating Energy
+  TECHO THERMAL ZONE:Zone Air System Sensible Heating Energy
+
+ For Meter=General:Heating:EnergyTransfer:Zone:ALMACEN THERMAL ZONE [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  ALMACEN THERMAL ZONE:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer [J], ResourceType=EnergyTransfer, EndUse=Cooling, contents are:
+  ALMACEN THERMAL ZONE:Zone Air System Sensible Cooling Energy
+  BANIO DAMAS THERMAL ZONE:Zone Air System Sensible Cooling Energy
+  BANIO EXT DISCAP THERMAL ZONE:Zone Air System Sensible Cooling Energy
+  BANIO EXT HOMBRES THERMAL ZONE:Zone Air System Sensible Cooling Energy
+  BANIO EXT MUJERES THERMAL ZONE:Zone Air System Sensible Cooling Energy
+  BANIO TAMBERO THERMAL ZONE:Zone Air System Sensible Cooling Energy
+  BANIO VARONES THERMAL ZONE:Zone Air System Sensible Cooling Energy
+  DORMITORIO DAMAS:Zone Air System Sensible Cooling Energy
+  DORMITORIO P SEGURIDAD THERMAL ZONE:Zone Air System Sensible Cooling Energy
+  DORMITORIO TAMBERO THERMAL ZONE:Zone Air System Sensible Cooling Energy
+  DORMITORIO VARONES THERMAL ZONE:Zone Air System Sensible Cooling Energy
+  PASADIZO BANIOS THERMAL ZONE:Zone Air System Sensible Cooling Energy
+  PASADIZO THERMAL ZONE:Zone Air System Sensible Cooling Energy
+  TECHO THERMAL ZONE:Zone Air System Sensible Cooling Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:ALMACEN THERMAL ZONE [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  ALMACEN THERMAL ZONE:Zone Air System Sensible Cooling Energy
+
+ For Meter=General:Cooling:EnergyTransfer [J], ResourceType=EnergyTransfer, EndUse=Cooling, contents are:
+  ALMACEN THERMAL ZONE:Zone Air System Sensible Cooling Energy
+  BANIO DAMAS THERMAL ZONE:Zone Air System Sensible Cooling Energy
+  BANIO EXT DISCAP THERMAL ZONE:Zone Air System Sensible Cooling Energy
+  BANIO EXT HOMBRES THERMAL ZONE:Zone Air System Sensible Cooling Energy
+  BANIO EXT MUJERES THERMAL ZONE:Zone Air System Sensible Cooling Energy
+  BANIO TAMBERO THERMAL ZONE:Zone Air System Sensible Cooling Energy
+  BANIO VARONES THERMAL ZONE:Zone Air System Sensible Cooling Energy
+  DORMITORIO DAMAS:Zone Air System Sensible Cooling Energy
+  DORMITORIO P SEGURIDAD THERMAL ZONE:Zone Air System Sensible Cooling Energy
+  DORMITORIO TAMBERO THERMAL ZONE:Zone Air System Sensible Cooling Energy
+  DORMITORIO VARONES THERMAL ZONE:Zone Air System Sensible Cooling Energy
+  PASADIZO BANIOS THERMAL ZONE:Zone Air System Sensible Cooling Energy
+  PASADIZO THERMAL ZONE:Zone Air System Sensible Cooling Energy
+  TECHO THERMAL ZONE:Zone Air System Sensible Cooling Energy
+
+ For Meter=General:Cooling:EnergyTransfer:Zone:ALMACEN THERMAL ZONE [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  ALMACEN THERMAL ZONE:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:BANIO DAMAS THERMAL ZONE [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  BANIO DAMAS THERMAL ZONE:Zone Air System Sensible Heating Energy
+  BANIO DAMAS THERMAL ZONE:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:BANIO DAMAS THERMAL ZONE [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  BANIO DAMAS THERMAL ZONE:Zone Air System Sensible Heating Energy
+
+ For Meter=General:Heating:EnergyTransfer:Zone:BANIO DAMAS THERMAL ZONE [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  BANIO DAMAS THERMAL ZONE:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:BANIO DAMAS THERMAL ZONE [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  BANIO DAMAS THERMAL ZONE:Zone Air System Sensible Cooling Energy
+
+ For Meter=General:Cooling:EnergyTransfer:Zone:BANIO DAMAS THERMAL ZONE [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  BANIO DAMAS THERMAL ZONE:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:BANIO EXT DISCAP THERMAL ZONE [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  BANIO EXT DISCAP THERMAL ZONE:Zone Air System Sensible Heating Energy
+  BANIO EXT DISCAP THERMAL ZONE:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:BANIO EXT DISCAP THERMAL ZONE [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  BANIO EXT DISCAP THERMAL ZONE:Zone Air System Sensible Heating Energy
+
+ For Meter=General:Heating:EnergyTransfer:Zone:BANIO EXT DISCAP THERMAL ZONE [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  BANIO EXT DISCAP THERMAL ZONE:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:BANIO EXT DISCAP THERMAL ZONE [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  BANIO EXT DISCAP THERMAL ZONE:Zone Air System Sensible Cooling Energy
+
+ For Meter=General:Cooling:EnergyTransfer:Zone:BANIO EXT DISCAP THERMAL ZONE [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  BANIO EXT DISCAP THERMAL ZONE:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:BANIO EXT HOMBRES THERMAL ZONE [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  BANIO EXT HOMBRES THERMAL ZONE:Zone Air System Sensible Heating Energy
+  BANIO EXT HOMBRES THERMAL ZONE:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:BANIO EXT HOMBRES THERMAL ZONE [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  BANIO EXT HOMBRES THERMAL ZONE:Zone Air System Sensible Heating Energy
+
+ For Meter=General:Heating:EnergyTransfer:Zone:BANIO EXT HOMBRES THERMAL ZONE [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  BANIO EXT HOMBRES THERMAL ZONE:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:BANIO EXT HOMBRES THERMAL ZONE [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  BANIO EXT HOMBRES THERMAL ZONE:Zone Air System Sensible Cooling Energy
+
+ For Meter=General:Cooling:EnergyTransfer:Zone:BANIO EXT HOMBRES THERMAL ZONE [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  BANIO EXT HOMBRES THERMAL ZONE:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:BANIO EXT MUJERES THERMAL ZONE [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  BANIO EXT MUJERES THERMAL ZONE:Zone Air System Sensible Heating Energy
+  BANIO EXT MUJERES THERMAL ZONE:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:BANIO EXT MUJERES THERMAL ZONE [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  BANIO EXT MUJERES THERMAL ZONE:Zone Air System Sensible Heating Energy
+
+ For Meter=General:Heating:EnergyTransfer:Zone:BANIO EXT MUJERES THERMAL ZONE [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  BANIO EXT MUJERES THERMAL ZONE:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:BANIO EXT MUJERES THERMAL ZONE [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  BANIO EXT MUJERES THERMAL ZONE:Zone Air System Sensible Cooling Energy
+
+ For Meter=General:Cooling:EnergyTransfer:Zone:BANIO EXT MUJERES THERMAL ZONE [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  BANIO EXT MUJERES THERMAL ZONE:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:BANIO TAMBERO THERMAL ZONE [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  BANIO TAMBERO THERMAL ZONE:Zone Air System Sensible Heating Energy
+  BANIO TAMBERO THERMAL ZONE:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:BANIO TAMBERO THERMAL ZONE [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  BANIO TAMBERO THERMAL ZONE:Zone Air System Sensible Heating Energy
+
+ For Meter=General:Heating:EnergyTransfer:Zone:BANIO TAMBERO THERMAL ZONE [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  BANIO TAMBERO THERMAL ZONE:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:BANIO TAMBERO THERMAL ZONE [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  BANIO TAMBERO THERMAL ZONE:Zone Air System Sensible Cooling Energy
+
+ For Meter=General:Cooling:EnergyTransfer:Zone:BANIO TAMBERO THERMAL ZONE [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  BANIO TAMBERO THERMAL ZONE:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:BANIO VARONES THERMAL ZONE [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  BANIO VARONES THERMAL ZONE:Zone Air System Sensible Heating Energy
+  BANIO VARONES THERMAL ZONE:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:BANIO VARONES THERMAL ZONE [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  BANIO VARONES THERMAL ZONE:Zone Air System Sensible Heating Energy
+
+ For Meter=General:Heating:EnergyTransfer:Zone:BANIO VARONES THERMAL ZONE [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  BANIO VARONES THERMAL ZONE:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:BANIO VARONES THERMAL ZONE [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  BANIO VARONES THERMAL ZONE:Zone Air System Sensible Cooling Energy
+
+ For Meter=General:Cooling:EnergyTransfer:Zone:BANIO VARONES THERMAL ZONE [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  BANIO VARONES THERMAL ZONE:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:DORMITORIO DAMAS [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  DORMITORIO DAMAS:Zone Air System Sensible Heating Energy
+  DORMITORIO DAMAS:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:DORMITORIO DAMAS [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  DORMITORIO DAMAS:Zone Air System Sensible Heating Energy
+
+ For Meter=General:Heating:EnergyTransfer:Zone:DORMITORIO DAMAS [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  DORMITORIO DAMAS:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:DORMITORIO DAMAS [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  DORMITORIO DAMAS:Zone Air System Sensible Cooling Energy
+
+ For Meter=General:Cooling:EnergyTransfer:Zone:DORMITORIO DAMAS [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  DORMITORIO DAMAS:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:DORMITORIO P SEGURIDAD THERMAL ZONE [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  DORMITORIO P SEGURIDAD THERMAL ZONE:Zone Air System Sensible Heating Energy
+  DORMITORIO P SEGURIDAD THERMAL ZONE:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:DORMITORIO P SEGURIDAD THERMAL ZONE [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  DORMITORIO P SEGURIDAD THERMAL ZONE:Zone Air System Sensible Heating Energy
+
+ For Meter=General:Heating:EnergyTransfer:Zone:DORMITORIO P SEGURIDAD THERMAL ZONE [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  DORMITORIO P SEGURIDAD THERMAL ZONE:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:DORMITORIO P SEGURIDAD THERMAL ZONE [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  DORMITORIO P SEGURIDAD THERMAL ZONE:Zone Air System Sensible Cooling Energy
+
+ For Meter=General:Cooling:EnergyTransfer:Zone:DORMITORIO P SEGURIDAD THERMAL ZONE [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  DORMITORIO P SEGURIDAD THERMAL ZONE:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:DORMITORIO TAMBERO THERMAL ZONE [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  DORMITORIO TAMBERO THERMAL ZONE:Zone Air System Sensible Heating Energy
+  DORMITORIO TAMBERO THERMAL ZONE:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:DORMITORIO TAMBERO THERMAL ZONE [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  DORMITORIO TAMBERO THERMAL ZONE:Zone Air System Sensible Heating Energy
+
+ For Meter=General:Heating:EnergyTransfer:Zone:DORMITORIO TAMBERO THERMAL ZONE [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  DORMITORIO TAMBERO THERMAL ZONE:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:DORMITORIO TAMBERO THERMAL ZONE [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  DORMITORIO TAMBERO THERMAL ZONE:Zone Air System Sensible Cooling Energy
+
+ For Meter=General:Cooling:EnergyTransfer:Zone:DORMITORIO TAMBERO THERMAL ZONE [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  DORMITORIO TAMBERO THERMAL ZONE:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:DORMITORIO VARONES THERMAL ZONE [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  DORMITORIO VARONES THERMAL ZONE:Zone Air System Sensible Heating Energy
+  DORMITORIO VARONES THERMAL ZONE:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:DORMITORIO VARONES THERMAL ZONE [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  DORMITORIO VARONES THERMAL ZONE:Zone Air System Sensible Heating Energy
+
+ For Meter=General:Heating:EnergyTransfer:Zone:DORMITORIO VARONES THERMAL ZONE [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  DORMITORIO VARONES THERMAL ZONE:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:DORMITORIO VARONES THERMAL ZONE [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  DORMITORIO VARONES THERMAL ZONE:Zone Air System Sensible Cooling Energy
+
+ For Meter=General:Cooling:EnergyTransfer:Zone:DORMITORIO VARONES THERMAL ZONE [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  DORMITORIO VARONES THERMAL ZONE:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:PASADIZO BANIOS THERMAL ZONE [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  PASADIZO BANIOS THERMAL ZONE:Zone Air System Sensible Heating Energy
+  PASADIZO BANIOS THERMAL ZONE:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:PASADIZO BANIOS THERMAL ZONE [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  PASADIZO BANIOS THERMAL ZONE:Zone Air System Sensible Heating Energy
+
+ For Meter=General:Heating:EnergyTransfer:Zone:PASADIZO BANIOS THERMAL ZONE [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  PASADIZO BANIOS THERMAL ZONE:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:PASADIZO BANIOS THERMAL ZONE [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  PASADIZO BANIOS THERMAL ZONE:Zone Air System Sensible Cooling Energy
+
+ For Meter=General:Cooling:EnergyTransfer:Zone:PASADIZO BANIOS THERMAL ZONE [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  PASADIZO BANIOS THERMAL ZONE:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:PASADIZO THERMAL ZONE [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  PASADIZO THERMAL ZONE:Zone Air System Sensible Heating Energy
+  PASADIZO THERMAL ZONE:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:PASADIZO THERMAL ZONE [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  PASADIZO THERMAL ZONE:Zone Air System Sensible Heating Energy
+
+ For Meter=General:Heating:EnergyTransfer:Zone:PASADIZO THERMAL ZONE [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  PASADIZO THERMAL ZONE:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:PASADIZO THERMAL ZONE [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  PASADIZO THERMAL ZONE:Zone Air System Sensible Cooling Energy
+
+ For Meter=General:Cooling:EnergyTransfer:Zone:PASADIZO THERMAL ZONE [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  PASADIZO THERMAL ZONE:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:TECHO THERMAL ZONE [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  TECHO THERMAL ZONE:Zone Air System Sensible Heating Energy
+  TECHO THERMAL ZONE:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:TECHO THERMAL ZONE [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  TECHO THERMAL ZONE:Zone Air System Sensible Heating Energy
+
+ For Meter=General:Heating:EnergyTransfer:Zone:TECHO THERMAL ZONE [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  TECHO THERMAL ZONE:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:TECHO THERMAL ZONE [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  TECHO THERMAL ZONE:Zone Air System Sensible Cooling Energy
+
+ For Meter=General:Cooling:EnergyTransfer:Zone:TECHO THERMAL ZONE [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  TECHO THERMAL ZONE:Zone Air System Sensible Cooling Energy
+
+ For Meter=DistrictHeating:Facility [J], ResourceType=DistrictHeating, contents are:
+  DORMITORIO DAMAS IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Heating Energy
+
+ For Meter=DistrictHeating:HVAC [J], ResourceType=DistrictHeating, Group=HVAC, contents are:
+  DORMITORIO DAMAS IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Heating Energy
+
+ For Meter=Heating:DistrictHeating [J], ResourceType=DistrictHeating, EndUse=Heating, contents are:
+  DORMITORIO DAMAS IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Heating Energy
+
+ For Meter=General:Heating:DistrictHeating [J], ResourceType=DistrictHeating, EndUse=Heating, contents are:
+  DORMITORIO DAMAS IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Heating Energy
+
+ For Meter=DistrictCooling:Facility [J], ResourceType=DistrictCooling, contents are:
+  DORMITORIO DAMAS IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Cooling Energy
+
+ For Meter=DistrictCooling:HVAC [J], ResourceType=DistrictCooling, Group=HVAC, contents are:
+  DORMITORIO DAMAS IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Cooling Energy
+
+ For Meter=Cooling:DistrictCooling [J], ResourceType=DistrictCooling, EndUse=Cooling, contents are:
+  DORMITORIO DAMAS IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Cooling Energy
+
+ For Meter=General:Cooling:DistrictCooling [J], ResourceType=DistrictCooling, EndUse=Cooling, contents are:
+  DORMITORIO DAMAS IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Cooling Energy
+
+ For Meter=Carbon Equivalent:Facility [kg], ResourceType=Carbon Equivalent, contents are:
+  Site:Environmental Impact Total N2O Emissions Carbon Equivalent Mass
+  Site:Environmental Impact Total CH4 Emissions Carbon Equivalent Mass
+  Site:Environmental Impact Total CO2 Emissions Carbon Equivalent Mass
+
+ For Meter=CarbonEquivalentEmissions:Carbon Equivalent [kg], ResourceType=Carbon Equivalent, EndUse=CarbonEquivalentEmissions, contents are:
+  Site:Environmental Impact Total N2O Emissions Carbon Equivalent Mass
+  Site:Environmental Impact Total CH4 Emissions Carbon Equivalent Mass
+  Site:Environmental Impact Total CO2 Emissions Carbon Equivalent Mass
